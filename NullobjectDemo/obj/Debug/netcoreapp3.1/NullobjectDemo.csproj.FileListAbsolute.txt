@@ -1,0 +1,13 @@
+C:\Users\Fusionstak\source\repos\NullobjectDemo\bin\Debug\netcoreapp3.1\NullobjectDemo.exe
+C:\Users\Fusionstak\source\repos\NullobjectDemo\bin\Debug\netcoreapp3.1\NullobjectDemo.deps.json
+C:\Users\Fusionstak\source\repos\NullobjectDemo\bin\Debug\netcoreapp3.1\NullobjectDemo.runtimeconfig.json
+C:\Users\Fusionstak\source\repos\NullobjectDemo\bin\Debug\netcoreapp3.1\NullobjectDemo.runtimeconfig.dev.json
+C:\Users\Fusionstak\source\repos\NullobjectDemo\bin\Debug\netcoreapp3.1\NullobjectDemo.dll
+C:\Users\Fusionstak\source\repos\NullobjectDemo\bin\Debug\netcoreapp3.1\NullobjectDemo.pdb
+C:\Users\Fusionstak\source\repos\NullobjectDemo\obj\Debug\netcoreapp3.1\NullobjectDemo.csprojAssemblyReference.cache
+C:\Users\Fusionstak\source\repos\NullobjectDemo\obj\Debug\netcoreapp3.1\NullobjectDemo.AssemblyInfoInputs.cache
+C:\Users\Fusionstak\source\repos\NullobjectDemo\obj\Debug\netcoreapp3.1\NullobjectDemo.AssemblyInfo.cs
+C:\Users\Fusionstak\source\repos\NullobjectDemo\obj\Debug\netcoreapp3.1\NullobjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\Fusionstak\source\repos\NullobjectDemo\obj\Debug\netcoreapp3.1\NullobjectDemo.dll
+C:\Users\Fusionstak\source\repos\NullobjectDemo\obj\Debug\netcoreapp3.1\NullobjectDemo.pdb
+C:\Users\Fusionstak\source\repos\NullobjectDemo\obj\Debug\netcoreapp3.1\NullobjectDemo.genruntimeconfig.cache
